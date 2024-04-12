@@ -1,2 +1,2 @@
 # FaceDetection
-Building a face detection system using OpenCV and Python.
+I am building a face detection system using OpenCV and Python.
